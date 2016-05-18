@@ -1,3 +1,8 @@
 #include <stdio.h>
 test git
-void main()
+void main(){
+
+printf("Hello world\n");
+
+
+}
